@@ -14,7 +14,7 @@ Now added a Pause and Resume function. Hope you guys will like it!
 
 _________________________________________________________________________________________________________________________________
 To-Do:
-Add user input for the GTAHaX window name so the updates aren't stalled cuz of my inability to update in time
+Nothing...... gladly haha
 Suggestions are open.
 
 
