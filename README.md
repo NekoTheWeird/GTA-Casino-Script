@@ -7,7 +7,10 @@ Changelog:
 1.61 - Added a Python rewrite.
 From now on i will ONLY update the Python version.
 Now added a Pause and Resume function. Hope you guys will like it!
+
 1.64 - Code recovered
+?.?? - Added User Input for GTAHaX wiondow name
+
 To-Do:
 Add user input for the GTAHaX window name so the updates aren't stalled cuz of my inability to update in time
 Suggestions are open.
